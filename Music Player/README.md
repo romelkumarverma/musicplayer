@@ -1,5 +1,5 @@
 ## Music Player
-This is a simple User Interface of a music player created in HTML, CSS and JavaScript.
+This is a simple cool User Interface of a music player created in HTML, CSS and JavaScript for India.
 
 ![Output](/output/html-css.png)
 
